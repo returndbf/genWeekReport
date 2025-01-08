@@ -1,6 +1,6 @@
 {
-  "name": "gen-week-report",
-  "version": "1.0.3",
+  "name": "genweekreport",
+  "version": "1.0.4",
   "description": "Generate a week report  for use git local logs",
   "type": "module",
   "main": "dist/cjs/bundle.cjs",

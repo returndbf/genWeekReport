@@ -6,12 +6,12 @@ Generate a week report  for use git local logs
 
 ### esm
 ```js
-import { genWeekReport } from "gen-week-report"
+import { genWeekReport } from "genweekreport"
 ```
 
 ### cjs
 ```js
-const { genWeekReport } = require("gen-week-report")
+const { genWeekReport } = require("genweekreport")
 ```
  
 ### demo
